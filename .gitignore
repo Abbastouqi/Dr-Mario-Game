@@ -1,0 +1,6 @@
+echo "__pycache__" > .gitignore
+echo "*.pyc" >> .gitignore
+echo "*.aux" >> .gitignore
+echo "*.log" >> .gitignore
+echo "*.out" >> .gitignore
+echo "*.pdf" >> .gitignore
